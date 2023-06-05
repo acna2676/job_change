@@ -1,0 +1,9 @@
+[alias]
+        a = add
+        c = commit
+        cam = commit -am
+        cm = commit -m
+        s = status
+        l = log
+        b = branch
+        co = checkout
